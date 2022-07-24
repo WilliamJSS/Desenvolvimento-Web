@@ -1,0 +1,50 @@
+/* Fontes e cores de fonte */
+/* p {
+    color: blue;
+    background-color: yellow;
+} */
+
+/* Todo texto do corpo do html recebe a mesma fonte */
+/* body {
+    font-family: 'Helvetica', 'Lucida Grande', sans-serif;
+} */
+
+/* Alinhamento e espaçamentos do texto */
+/* p{
+    line-height: 20px;
+    letter-spacing: 3px;
+    word-spacing: 7px;
+    text-indent: 30px;
+} */
+
+/* Imagens de fundo */
+/* h1{
+    background-image: url(img/matriz-musicdot.png);
+}
+body{
+    background-image: url(https://i.imgur.com/uAhjMNd.jpg);
+} */
+
+/* Definição de bordas */
+/* p{
+    border-width: 1px;
+    border-style: solid;
+    border-color: aqua;
+} */
+
+/* Forma simplificada de definir borda */
+/* p{
+    border: 1px solid aqua;
+} */
+
+/* Representação de cores */
+/* h1{
+    background-color: yellow;
+    background-color: rgb(255, 255, 0);
+    background-color: #ffff00;
+} */
+
+/* É possível simplicar a notação hexadecimal */
+/* h1{
+    background-color: #ff0;
+} */
