@@ -8,7 +8,7 @@ As etapas do desenvolvimento foram divididas entre as branches a seguir:
     - [projeto-musicdot/introducao-ao-html](https://github.com/WilliamJSS/projeto-musicdot/tree/projeto-musicdot/introducao-ao-html)
 
 2. Capítulo 8: Mudando o visual da nossa página.
-    - Em breve.
+    - [projeto-musicdot/introducao-ao-css](https://github.com/WilliamJSS/projeto-musicdot/tree/projeto-musicdot/introducao-ao-css)
 
 3. Capítulo 10: Trabalhando com tamanhos e espaçamento.
     - Em breve.
