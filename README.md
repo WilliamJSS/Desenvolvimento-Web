@@ -11,7 +11,7 @@ As etapas do desenvolvimento foram divididas entre as branches a seguir:
     - [projeto-musicdot/introducao-ao-css](https://github.com/WilliamJSS/projeto-musicdot/tree/projeto-musicdot/introducao-ao-css)
 
 3. Capítulo 10: Trabalhando com tamanhos e espaçamento.
-    - Em breve.
+    - [projeto-musicdot/tamanhos-e-espacamentos](https://github.com/WilliamJSS/projeto-musicdot/tree/projeto-musicdot/tamanhos-e-espacamentos)
 
 4. Capítulo 12: Usando links e listas.
     - Em breve.
