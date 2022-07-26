@@ -48,3 +48,28 @@ body{
 /* h1{
     background-color: #ff0;
 } */
+
+/* Espaçamento com Padding (Interno) */
+/* p{ */
+    /* background-color: grey; */
+
+    /* 10px em todas as direções */
+    /* padding: 10px; */
+    
+    /* 10px top e bottom, 30px left e right */
+    /* padding: 10px 30px; */
+    
+    /* 10px top, 30px left e right, 50px bottom */
+    /* padding: 10px 30px 50px; */
+
+    /* 10px top, 30px right, 50px bottom, 5px left */
+    /* padding: 10px 30px 50px 5px; */
+/* } */
+
+/* Espaçamento com Margin (Externo) */
+/* p{ */
+    /* background-color: grey; */
+
+    /* o navegador define a margem de acordo com o espaço disponivel */
+    /* margin: 0 auto; */
+/* } */
