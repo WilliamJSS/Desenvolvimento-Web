@@ -73,3 +73,15 @@ body{
     /* o navegador define a margem de acordo com o espaço disponivel */
     /* margin: 0 auto; */
 /* } */
+
+/* Testando diferentes tipos de display */
+/* p {
+    background-color: aqua;
+    width: 30%;
+}
+
+a {
+    background-color: pink;
+    width: 40%;
+    display: inline-block;
+} */
